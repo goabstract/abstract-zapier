@@ -1,0 +1,7 @@
+*.log
+.DS_Store
+.yarn-cache
+build
+coverage
+node_modules
+package-lock.json
