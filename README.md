@@ -6,7 +6,9 @@
 
 ## Installation
 
-Check out [Abstract on Zapier](https://zapier.com/apps/abstract/integrations) for more information and installation instructions.
+`abstract-zapier` is currently in private beta mode and can  be installed [here](https://zapier.com/developer/public-invite/74968/3b92ba9b61df7c06287c54a411d1e8fa/).
+
+<!-- Check out [Abstract on Zapier](https://zapier.com/apps/abstract/integrations) for more information and installation instructions. -->
 
 ## Contributing
 
