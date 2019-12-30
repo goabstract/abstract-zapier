@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.1.0](https://github.com/goabstract/abstract-zapier/compare/v1.0.0...v1.1.0) (2019-12-30)
+
+
+### Features
+
+* update trigger names ([c276b4d](https://github.com/goabstract/abstract-zapier/commit/c276b4d))
+
+
+
 ## [1.0.0](https://github.com/goabstract/abstract-zapier/compare/v0.2.0...v1.0.0) (2019-12-09)
 
 
